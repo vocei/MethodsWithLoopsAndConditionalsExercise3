@@ -1,0 +1,14 @@
+C:\Users\Coding Bootcamp\Documents\TrueCoders Projects\repos\MethodsWithLoopsAndConditionals\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.exe
+C:\Users\Coding Bootcamp\Documents\TrueCoders Projects\repos\MethodsWithLoopsAndConditionals\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.deps.json
+C:\Users\Coding Bootcamp\Documents\TrueCoders Projects\repos\MethodsWithLoopsAndConditionals\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.runtimeconfig.json
+C:\Users\Coding Bootcamp\Documents\TrueCoders Projects\repos\MethodsWithLoopsAndConditionals\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.dll
+C:\Users\Coding Bootcamp\Documents\TrueCoders Projects\repos\MethodsWithLoopsAndConditionals\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.pdb
+C:\Users\Coding Bootcamp\Documents\TrueCoders Projects\repos\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coding Bootcamp\Documents\TrueCoders Projects\repos\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.AssemblyInfoInputs.cache
+C:\Users\Coding Bootcamp\Documents\TrueCoders Projects\repos\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.AssemblyInfo.cs
+C:\Users\Coding Bootcamp\Documents\TrueCoders Projects\repos\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.csproj.CoreCompileInputs.cache
+C:\Users\Coding Bootcamp\Documents\TrueCoders Projects\repos\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.dll
+C:\Users\Coding Bootcamp\Documents\TrueCoders Projects\repos\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\refint\MethodsWithLoopsAndConditionals.dll
+C:\Users\Coding Bootcamp\Documents\TrueCoders Projects\repos\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.pdb
+C:\Users\Coding Bootcamp\Documents\TrueCoders Projects\repos\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.genruntimeconfig.cache
+C:\Users\Coding Bootcamp\Documents\TrueCoders Projects\repos\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\ref\MethodsWithLoopsAndConditionals.dll
