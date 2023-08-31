@@ -1,6 +1,7 @@
 ﻿
 using System.ComponentModel.Design;
 using System.Diagnostics.Metrics;
+using System.Numerics;
 using System.Reflection.Metadata.Ecma335;
 using System.Security.Cryptography.X509Certificates;
 
@@ -19,6 +20,11 @@ namespace MethodsWithLoopsAndConditionals
             YouOldEnoughToVote();
             NegativeOrPositive(7);
             DanceyTime();
+            BigCheck();
+            MultiplicationTable();
+            Console.WriteLine("\nThank you so much for playing!");
+
+
         }
         public static void PrintThousand()
         {
@@ -152,9 +158,53 @@ namespace MethodsWithLoopsAndConditionals
                 }
             } while (loop);
         }
+        public static void BigCheck()
+        
+        {
+            bool CorrectRange = true;
+            do
+            {
+
+                Console.WriteLine("\n Give me a number between 10 and -10");
+                var enteredNum = int.Parse(Console.ReadLine());
+                bool isNumberFound = false;
+                for (int i = -10; i <= 10; i++)
+                {
+                    if (enteredNum == i)
+                    {
+                        isNumberFound = true;
+                        CorrectRange = true;
+                        break;
+                    }
+                    else
+                    {
+                        isNumberFound = false;
+                        CorrectRange = false;
+                    }
+
+                }
+                Console.WriteLine(isNumberFound ? "This number is within the range, thanks." : "This number is not within -10 and 10. Try again...");
+
+            } while(CorrectRange == false);
+        }
+
+        public static void MultiplicationTable()
+        {
+            Console.WriteLine("\n Now finally, give me a number to multiply from 1-12 as the last thing we'll do in this program");
+            var multiNum = int.Parse(Console.ReadLine());
+            for (int i = 1; i <= 12; i++)
+            {
+                int multiAns = i * multiNum;
+                //1 x 45
+                // 1 x 45 = 45
+                Console.WriteLine($"\n{i} * {multiNum} = {multiAns}");
+            }
+        }
+
+            
     }
 }
 
-    
+
 
 
